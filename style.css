@@ -1,0 +1,227 @@
+#topbar{
+    margin:0 auto;
+    width:1000px;
+    height:40px;
+ 
+}
+    body{
+        margin:0;
+        padding:0;
+  font-family: Helvetica, freesans, sans-serif;
+
+}
+
+   #logo{
+     margin-right:8px;
+     width:100px;
+    float:left;
+    margin-top:8px;
+}
+
+.topbar-section {
+      float:left;
+       border-left: 1px #cccccc solid;
+  height:100%;
+
+}
+
+#signin-img{
+      
+       width:25px;
+          margin:12px 15px;
+float:left;
+
+}
+
+#signin-text{
+font-weight:bold;
+  font-size:90%;
+position:relative;
+   top:14px;
+padding-right:15px;
+
+}
+
+#wigglyline{
+      height:42px;
+float:left;
+
+}
+
+#bell{
+   float:left;
+   height:27px;
+    margin:7px 5px 0 5px;
+    
+
+}
+
+.topbar-menu{
+ font-weight:bold;
+  font-size:90%;
+padding:13px 15px 1px 15px;
+ height:27px;
+
+
+}
+
+#more-arrow{
+    width:16px;
+margin-left:20px;
+}
+
+    #search-box{
+
+    background-color:#e4e4e4;
+    border:none;
+   padding:5px;
+   font-weight:bold;
+   font-size:14px;
+margin:8px;
+float:left;
+}
+
+#search{
+width:30px;
+    height:26px;
+   margin-top:8px;
+    margin-left:-8px;
+float:left;
+
+}
+
+.clear{
+     clear:both;
+
+}
+
+   
+    #menu-bar{
+       margin-left:-200px;
+           background-color:#BB1919;
+    width:2000px;
+    height:87px;
+ 
+}
+
+
+    h1{
+     padding:0;
+      margin:0;
+       margin-left:200px;
+      margin-top:17px;
+    color:white; 
+    font-size:50px;
+     font-weight:normal;
+    float:left;
+    
+}
+
+  #pointer{
+       border:1px #BB4545 solid;
+    float:left; 
+    width:180px;
+   padding: 7px 7px 0px 7px;
+    margin-top:-72px;
+    margin-left:750px;
+  
+}
+     #pointer a{
+      text-decoration:none;
+      color:blue;
+  font-size:22px;
+    position:reletive;
+     top:-50px;
+}
+        #pointer a:hover{
+       text-decoration:underline;
+
+}
+       #pointer img{
+        height:30px;
+       float:right;
+}
+
+.clear{
+     margin:0;
+     padding:0;
+
+}
+
+
+
+
+  #menu-bar-2-container{
+background-color:#A91717;
+    width:2000px; 
+    margin-left:-200px;   
+}
+
+
+     #menu-bar-2{
+       margin:0 auto;
+    height:40px;
+    width:px;
+       
+}
+    
+   #menu-bar-2 a{
+
+         color:white;
+    text-decoration:none;
+    padding:0 10px;
+    border-right:1px solid #BB4545;
+   font-size:15px;
+   position:relative;
+   top:10px;
+   left:180px;
+   
+}
+       #menu-bar-2 a:hover{
+           color: black;
+     text-decoration:underline;
+}
+       
+      .no-border {
+
+           border:none !important;
+
+}
+
+
+     #down-arrow{
+         height:10px;
+        position:relative;
+       top:10px;
+         left:180px;
+      background-color:#A91717;
+}
+
+     #tech{
+        
+        font-size:20px;
+        font-weight:normal;
+         padding:0;
+        margin:0;
+         margin-top:10px;
+        margin-left:-11px;
+        border-bottom:3px solid  #BB4545;
+width:45px;
+}
+
+   .kim{
+     height:250px;
+     width:450px;
+    margin-top:20px;
+    margin-left:-10px;
+}
+
+    #page-head{
+       font-size:20px;
+       font-weight:normal;
+       color:#e4e4e4;
+    margin-left:-15px;
+     float:left;
+
+}
+
